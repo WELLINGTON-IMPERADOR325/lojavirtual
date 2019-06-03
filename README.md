@@ -1,0 +1,2 @@
+# lojavirtual
+paralelo ao ecommerce
